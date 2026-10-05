@@ -310,20 +310,13 @@ footer {
   .hero h2 { font-size: 40px; }
 }
 
+
 .abstract-box {
   margin-top: 1rem;
   padding: 1rem;
-  border-left: 3px solid var(--accent);
-  background: var(--soft);
+  border-left: 3px solid #345746;
+  background: #edf2ee;
   border-radius: 10px;
 }
-
-.abstract-box summary {
-  cursor: pointer;
-  font-weight: 600;
-  color: var(--accent);
-}
-
-.abstract-box p {
-  margin-top: 0.8rem;
-}
+.abstract-box summary { cursor: pointer; font-weight: 600; color: #345746; }
+.abstract-box p { margin-top: 0.8rem; }

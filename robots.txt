@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://vrindapse22.github.io/vrindasharma.github.io/sitemap.xml

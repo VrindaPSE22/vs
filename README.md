@@ -1,8 +1,17 @@
 # Vrinda Sharma academic website
 
-GitHub Pages-ready static website.
+Upload the contents of this folder to the root of your GitHub Pages repository.
 
-## To publish
-1. Create a public repository named `YOURUSERNAME.github.io`.
-2. Upload `index.html`, `styles.css`, and the `assets/` folder to the root of the repository.
-3. Go to Settings > Pages > Deploy from branch > main > root.
+## Required files
+- index.html
+- styles.css
+- cv.pdf
+- robots.txt
+- sitemap.xml
+- assets/profile.jpg
+- assets/worldbank-report.png
+
+## Important
+The HTML is already configured to use a local file called `cv.pdf`. If `cv.pdf` is not included in this package, upload your latest CV to the repository root and name it exactly `cv.pdf`.
+
+If your final GitHub Pages URL is not `https://vrindapse22.github.io/vrindasharma.github.io/`, update the `<loc>` entry in `sitemap.xml` to your actual public homepage URL.
